@@ -5,6 +5,7 @@ public class Data_Average {
         System.out.println("C" + 80);
         System.out.println("D" + 70);
         System.out.println("E" + 30);
-        System.out.println("テストの平均点：" + (370 / 5) + "点");
+        System.out.println("テストの平均点：" + ((100 + 90 + 80 + 70 + 30
+        ) / 5) + "点");
     }
 }
